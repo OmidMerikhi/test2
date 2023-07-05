@@ -2,3 +2,7 @@ my name is omid.
 i love hanie.
 i am a java developer.
 yesss.
+<<<<<<< HEAD
+=======
+i am  working on develop branch:)
+>>>>>>> develop
